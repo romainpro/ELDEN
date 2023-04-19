@@ -25,10 +25,14 @@ nav ul li a{
 
 }
 video{
-    z-index: 9;
-    position: fixed;
+    z-index: 0;
+
     width: 100%;
 }
-main{ 
+body{ 
     background-color: blue;
+}
+main{
+
+
 }
