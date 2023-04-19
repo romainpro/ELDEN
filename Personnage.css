@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+header{
+    background-color: black;
+}
+header nav ul {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+nav ul li a{
+    font-size: 1.5em;
+    color: whitesmoke;
+
+}
+.nav_logo{
+    width: 200px;
+
+}
+video{
+    z-index: 0;
+    width: 100%;
+}
+.Personnage{
+    display: flex;
+    overflow: hidden;
+}
